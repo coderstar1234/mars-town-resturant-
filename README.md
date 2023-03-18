@@ -1,9 +1,9 @@
-<h1 align="center"> mars-town-resturant:</h1>
+<h1 align="center"> mars-town-resturant:👽</h1>
 <h2 align="center"> The first Martian restaurant on the block, where Martian hospitality meets earthly cuisine  </h2> 
 <br>
 <br>
 <br>
-<h2 align="center"> Decleration </h2>
+<h2 align="center"> Decleration📝 </h2>
 
 - The 50 year in future to develop a mars society.<br>
 - Without waiter in resturant to serve a food.<br>
@@ -21,7 +21,7 @@
   
 </div>
 
-<h2 align="left" > Description</h2>
+<h2 align="left" > Description📚</h2>
 
 The Mangalavya is an **RFID Based Restaurant Food Ordering System** ,initially made for 24 hour hackathon at  SRM University 
 - It is a web-based system that generates a token using RFID technology.
@@ -30,35 +30,35 @@ The Mangalavya is an **RFID Based Restaurant Food Ordering System** ,initially m
 - The system eliminates the need for waiters in the restaurant.
 - The aim is to provide an innovative and futuristic dining experience to customers.
 
-<h2 align="left" > Configuration</h2>
+<h2 align="left" > Configuration✏️</h2>
 
 - Present a handy module consisting of RFID reader and microsystems which are used to generate tokens for customer..
 - The token is then transferred to user following with a 3d view of all the menu options.
 
-<h2 align="center" >Getting Started</h2>
+<h2 align="center" >Getting Started📝</h2>
 <hr>
- <h2 align="left" > Deployment</h2>
+ <h2 align="left" > Deployment🧾</h2>
  
 - To run this project, install it locally and you'll need hardware support(Arduino) for this you'll need sensors too.<br>
 - You can deploy the site for menu from the specific folder. It is made for:)<br>
 - For help getting started with IOT development, view the [online documentation](https://www.internetsociety.org/iot/), which offers help on IOT development, and a full API reference.
 
-<h2 align="left" >  Technologies Used:</h2>
+<h2 align="left" >  Technologies Used:💻</h2>
 
-<h3 align="left" > TOOLS</h3>
+<h3 align="left" > TOOLS👩‍💻</h3>
 
 - [PYCHARM](https://www.jetbrains.com/pycharm/) : PYCHARM IS AN IDE USED FOR THIS.<br>
 - [ARDUINO](https://dart.dev/) : An OPENSOURCE ELECTRONICS SYSTEM based on easy to use hardware.<br>
 - [POSTMAN](https://docs.swift.org/swift-book/) : AN API (Application Programming interface) development tool.
 
-<h3 align="left" > FRONTEND</h3>
+<h3 align="left" > FRONTEND📖</h3>
 
 - HTML : C'mon you know what's html for <br>
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  :  Used it for styling .<br>
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Please Refer to Official Documentation.
 
 <!-- CONTACT -->
-<h2 align="left" > Contact</h2>
+<h2 align="left" > Contact📞</h2>
 <p>
    
 📫 You can contact the team Corex Revise [here](https://linktr.ee/corex_revise)  
